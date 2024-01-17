@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there !
+
+I am Théo Duval, a French IT Student.
+
+No worries, i'll update this profile description very soon.
 
 <!--
 **CelestGuy/CelestGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
