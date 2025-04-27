@@ -1,6 +1,6 @@
-### Hello there !
+### Hi !
 
-I am Théo Duval, a French IT Student.
+I'm Théo Duval.
 
 No worries, i'll update this profile description very soon.
 
